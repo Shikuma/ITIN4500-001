@@ -9,7 +9,7 @@ public class MeshData : MonoBehaviour {
 		Mesh mesh = GetComponent<MeshFilter>().mesh;
 		Vector3[] vertices = mesh.vertices;
 		foreach(Vector3 v in vertices) {
-			Debug.Log(v);
+			//Debug.Log(v);
 		}
 	}
 }
