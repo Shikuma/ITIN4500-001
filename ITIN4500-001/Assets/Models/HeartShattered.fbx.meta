@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 9c4e43f537c80cc41b2f6834b4daaa8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Heart
+    100002: Heart_cell
+    100004: Heart_cell.001
+    100006: Heart_cell.002
+    100008: Heart_cell.003
+    100010: Heart_cell.004
+    100012: Heart_cell.005
+    100014: Heart_cell.006
+    100016: Heart_cell.007
+    100018: Heart_cell.008
+    100020: Heart_cell.009
+    100022: Heart_cell.010
+    100024: Heart_cell.011
+    100026: Heart_cell.012
+    100028: Heart_cell.013
+    100030: Heart_cell.014
+    100032: Heart_cell.015
+    100034: Heart_cell.016
+    100036: Heart_cell.017
+    100038: Heart_cell.018
+    100040: Heart_cell.019
+    100042: //RootNode
+    400000: Heart
+    400002: Heart_cell
+    400004: Heart_cell.001
+    400006: Heart_cell.002
+    400008: Heart_cell.003
+    400010: Heart_cell.004
+    400012: Heart_cell.005
+    400014: Heart_cell.006
+    400016: Heart_cell.007
+    400018: Heart_cell.008
+    400020: Heart_cell.009
+    400022: Heart_cell.010
+    400024: Heart_cell.011
+    400026: Heart_cell.012
+    400028: Heart_cell.013
+    400030: Heart_cell.014
+    400032: Heart_cell.015
+    400034: Heart_cell.016
+    400036: Heart_cell.017
+    400038: Heart_cell.018
+    400040: Heart_cell.019
+    400042: //RootNode
+    2100000: Heart
+    2300000: Heart
+    2300002: Heart_cell
+    2300004: Heart_cell.001
+    2300006: Heart_cell.002
+    2300008: Heart_cell.003
+    2300010: Heart_cell.004
+    2300012: Heart_cell.005
+    2300014: Heart_cell.006
+    2300016: Heart_cell.007
+    2300018: Heart_cell.008
+    2300020: Heart_cell.009
+    2300022: Heart_cell.010
+    2300024: Heart_cell.011
+    2300026: Heart_cell.012
+    2300028: Heart_cell.013
+    2300030: Heart_cell.014
+    2300032: Heart_cell.015
+    2300034: Heart_cell.016
+    2300036: Heart_cell.017
+    2300038: Heart_cell.018
+    2300040: Heart_cell.019
+    3300000: Heart
+    3300002: Heart_cell
+    3300004: Heart_cell.001
+    3300006: Heart_cell.002
+    3300008: Heart_cell.003
+    3300010: Heart_cell.004
+    3300012: Heart_cell.005
+    3300014: Heart_cell.006
+    3300016: Heart_cell.007
+    3300018: Heart_cell.008
+    3300020: Heart_cell.009
+    3300022: Heart_cell.010
+    3300024: Heart_cell.011
+    3300026: Heart_cell.012
+    3300028: Heart_cell.013
+    3300030: Heart_cell.014
+    3300032: Heart_cell.015
+    3300034: Heart_cell.016
+    3300036: Heart_cell.017
+    3300038: Heart_cell.018
+    3300040: Heart_cell.019
+    4300000: Heart_cell.019
+    4300002: Heart_cell.018
+    4300004: Heart_cell.017
+    4300006: Heart_cell.016
+    4300008: Heart_cell.015
+    4300010: Heart_cell.014
+    4300012: Heart_cell.013
+    4300014: Heart_cell.012
+    4300016: Heart_cell.011
+    4300018: Heart_cell.010
+    4300020: Heart_cell.009
+    4300022: Heart_cell.008
+    4300024: Heart_cell.007
+    4300026: Heart_cell.006
+    4300028: Heart_cell.005
+    4300030: Heart_cell.004
+    4300032: Heart_cell.003
+    4300034: Heart_cell.002
+    4300036: Heart_cell.001
+    4300038: Heart_cell
+    4300040: Heart
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
